@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3895b957771ba529dfd29e1a22ea5724",
+    "revision": "1a2e47a4a42deeccd27704efb15e522e",
     "url": "/react-project01-website-lavish/index.html"
   },
   {
-    "revision": "2c5763efa21b1e329b60",
+    "revision": "8d7ba29cd172fdaf0b7a",
     "url": "/react-project01-website-lavish/static/css/main.0779d1c8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-project01-website-lavish/static/js/2.f2c98645.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2c5763efa21b1e329b60",
-    "url": "/react-project01-website-lavish/static/js/main.8127a3dd.chunk.js"
+    "revision": "8d7ba29cd172fdaf0b7a",
+    "url": "/react-project01-website-lavish/static/js/main.3c6d51e8.chunk.js"
   },
   {
     "revision": "0eab9acc11fefdf28a60",
